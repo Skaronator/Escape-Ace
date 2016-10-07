@@ -1,6 +1,6 @@
-#define VERSION "1.7.5"
+#define VERSION "1.8.0"
 #define MISSIONNAME "Escape Altis Vanilla"
-#define MISSIONNAMEFULL "co10 Escape Altis Vanilla 1.7.5"
+#define MISSIONNAMEFULL "co10 Escape Altis Vanilla 1.8.0"
 
 //--- [Controls Style Preprocessors]
 #define ST_LEFT 				0
