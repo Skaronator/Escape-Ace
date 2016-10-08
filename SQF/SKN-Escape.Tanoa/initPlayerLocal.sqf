@@ -14,7 +14,7 @@ AT_Revive_clearedDistance = 0;
 AT_Revive_Camera = 1;
 
 
-call ATR_FNC_ReviveInit;
+//call ATR_FNC_ReviveInit;
 
 call compile preprocessFile "Scripts\AT\dronehack_init.sqf";
 [] call A3E_fnc_addUserActions;

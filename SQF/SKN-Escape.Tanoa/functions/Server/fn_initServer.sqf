@@ -534,6 +534,8 @@ waitUntil {scriptDone _scriptHandle};
 	 
     // Spawn guard
 
+    _backPack addItemCargoGlobal ["ACE_epinephrine", 12];
+
 	
 	for [{_i = 0}, {_i < (Param_EnemyFrequency*2)}, {_i = _i + 1}] do {
 		_weapon = a3e_arr_PrisonBackpackWeapons select floor(random(count(a3e_arr_PrisonBackpackWeapons)));
